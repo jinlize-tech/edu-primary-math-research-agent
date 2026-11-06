@@ -1,0 +1,24 @@
+{
+  "number": 42,
+  "product_id": "JLZ-EDU-AG-007",
+  "chinese_name": "小学数学教研",
+  "english_name": "Primary Math Research Agent",
+  "repository_name": "edu-primary-math-research-agent",
+  "product_type": "Agent",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-primary-math-research-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "教材版本、年级册次、单元、知识点、学情和教研任务",
+  "main_output": "单元分析、知识结构、重难点、课次建议、教学活动与易错点清单",
+  "package_entries": [
+    "edu-primary-math-research-agent/.codebuddy-plugin/plugin.json",
+    "edu-primary-math-research-agent/agents/edu-primary-math-research-agent.md",
+    "edu-primary-math-research-agent/avatars/expert.png",
+    "edu-primary-math-research-agent/README.md"
+  ]
+}

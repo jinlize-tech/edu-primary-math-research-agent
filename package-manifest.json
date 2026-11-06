@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-AG-007",
+  "repository_name": "edu-primary-math-research-agent",
+  "product_type": "Agent",
+  "version": "1.0.0",
+  "package_path": "dist/edu-primary-math-research-agent-v1.0.0.zip",
+  "sha256": "C137E708677266824B144F18A38EEA0B6A47E191635DBB7B8A9B795463CCDF6C",
+  "bytes": 12360,
+  "entries": [
+    "edu-primary-math-research-agent/.codebuddy-plugin/plugin.json",
+    "edu-primary-math-research-agent/agents/edu-primary-math-research-agent.md",
+    "edu-primary-math-research-agent/avatars/expert.png",
+    "edu-primary-math-research-agent/README.md"
+  ],
+  "built_at": "2026-11-06T22:17:02.6570033+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

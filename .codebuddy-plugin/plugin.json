@@ -1,0 +1,63 @@
+{
+  "name": "edu-primary-math-research-agent",
+  "version": "1.0.0",
+  "description": "Multi-step education operations assistant for Primary Math Research Agent.",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "270911570+yangsongbaofu-dot@users.noreply.github.com"
+  },
+  "agents": [
+    "./agents/edu-primary-math-research-agent.md"
+  ],
+  "expertType": "agent",
+  "agentName": "edu-primary-math-research-agent",
+  "displayName": {
+    "en": "Primary Math Research Agent",
+    "zh": "小学数学教研"
+  },
+  "profession": {
+    "en": "Primary Math Research Agent",
+    "zh": ""
+  },
+  "displayDescription": {
+    "en": "A multi-step education agent for Primary Math Research Agent, producing reviewable plans with human checkpoints.",
+    "zh": "提供小学数学教研专业协作，完成多步骤分析、方案设计与复盘，输出可执行成果并保留人工确认。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "15-Education",
+  "defaultInitPrompt": {
+    "en": "Help me complete Primary Math Research Agent.",
+    "zh": "请帮我完成一次小学数学教研"
+  },
+  "plugin": "edu-primary-math-research-agent",
+  "tags": [
+    {
+      "en": "Teaching",
+      "zh": "教学教研"
+    },
+    {
+      "en": "Teacher Tools",
+      "zh": "教师工具"
+    },
+    {
+      "en": "Education",
+      "zh": "教培机构"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Help me complete Primary Math Research Agent.",
+      "zh": "请帮我完成一次小学数学教研"
+    },
+    {
+      "en": "Diagnose my supplied education-business information and propose next steps.",
+      "zh": "请诊断我提供的业务资料并给出下一步行动"
+    },
+    {
+      "en": "Generate 单元分析、知识结构、重难点、课次建议、教学活动与易错点清单 with risks and open questions.",
+      "zh": "请生成单元分析、知识结构、重难点、课次建议、教学活动与易错点清单，并列出风险与待确认事项"
+    }
+  ],
+  "homepage": "https://github.com/jinlize-tech/edu-primary-math-research-agent",
+  "license": "Apache-2.0"
+}
