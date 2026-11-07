@@ -6,7 +6,7 @@ displayName:
   zh: '小学数学教研'
 profession:
   en: 'Primary Math Research Agent'
-  zh: ''
+  zh: '小学数学教研专家'
 maxTurns: 50
 ---
 

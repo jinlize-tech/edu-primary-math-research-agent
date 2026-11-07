@@ -1,6 +1,6 @@
 {
   "name": "edu-primary-math-research-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Multi-step education operations assistant for Primary Math Research Agent.",
   "author": {
     "name": "广州金励泽科技服务有限公司",
@@ -17,7 +17,7 @@
   },
   "profession": {
     "en": "Primary Math Research Agent",
-    "zh": ""
+    "zh": "小学数学教研专家"
   },
   "displayDescription": {
     "en": "A multi-step education agent for Primary Math Research Agent, producing reviewable plans with human checkpoints.",
