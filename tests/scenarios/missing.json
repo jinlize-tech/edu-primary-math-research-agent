@@ -1,6 +1,9 @@
 {
+  "scenario_name": "incomplete",
+  "business_context": "用户在小学数学教研任务开始阶段只提供了少量资料。",
   "inputs": {
-    "教材版本": "已提供并确认：教材版本"
+    "教材版本": "标准合成场景｜小学数学思维训练，五年级，春季班",
+    "年级册次": "标准合成场景｜小学数学思维训练，五年级，春季班"
   },
   "data_status": "confirmed",
   "conflicts": [],
